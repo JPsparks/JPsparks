@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🤖 AI Master's Student | 🧠 Agentic AI Enthusiast | 🚀 Building Intelligent Systems
+### 🤖 AI Master's Student | 🧠 Agentic AI Enthusiast | 🚀 Love building Intelligent Systems
 
 </div>
 
@@ -16,12 +16,12 @@ class JacopoPesaresi:
         self.current_role = "AI Master's Student"
         self.university = "Alma Mater Studiorum - Università di Bologna"
         self.program = "Artificial Intelligence"
-        self.interests = ["Agentic AI", "GraphRAG", "SLM", "Mobile Dev"]
+        self.interests = ["Agentic AI", "GraphRAG", "SLM", "RaspberryPi", "ESP32", "Mobile Dev"]
         self.currently_working_on = "JdroPonos (coming soon...)"
         
     def say_hi(self):
-        print("Let the future tell the truth and evaluate each one "
-              "according to his work and accomplishments ~ Nikola Tesla")
+        print("Let the future tell the truth and evaluate each one \
+              according to his work and accomplishments ~ Nikola Tesla")
 
 me = JacopoPesaresi()
 me.say_hi()
@@ -29,7 +29,7 @@ me.say_hi()
 
 🎯 Currently exploring the intersection of **Large Language Models**, **Retrieval-Augmented Generation**, and **Autonomous Agents**
 
-📍 Based in Italy | 🌐 [University Program](https://corsi.unibo.it/2cycle/artificial-intelligence)
+📍 Based in Italy | 🌐 [Visit my Master Course](https://corsi.unibo.it/2cycle/artificial-intelligence)
 
 ---
 
@@ -89,7 +89,10 @@ me.say_hi()
 
 ### 📚 Check out my repositories below! ⬇️
 
-<!-- You can pin specific repos by going to your GitHub profile and clicking "Customize your pins" -->
+[![Agriveritas](https://github-readme-stats.vercel.app/api/pin/?username=JPsparks&repo=Agriveritas&theme=tokyonight)](https://github.com/JPsparks/Agriveritas)
+[![Janaca](https://github-readme-stats.vercel.app/api/pin/?username=JPsparks&repo=Janaca&theme=tokyonight)](https://github.com/JPsparks/Janaca)
+
+</div>
 
 </div>
 
@@ -113,9 +116,8 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacopo-p-432796281/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacopo.pesaresi.02@gmail.com)
 
 </div>
 
@@ -123,7 +125,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 *"Let the future tell the truth and evaluate each one according to his work and accomplishments"*
+### 💭 *"Let the future tell the truth and evaluate each one according to his work and accomplishments"* 💭
 **~ Nikola Tesla**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
@@ -133,5 +135,5 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JP&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
