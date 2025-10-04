@@ -94,12 +94,6 @@ me.say_hi()
 
 </div>
 
-</div>
-
-> 💡 **Tip**: To link your best projects here, you can use:
-> ```markdown
-> [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME)
-> ```
 
 ---
 
