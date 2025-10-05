@@ -45,7 +45,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-Beginner-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-Newby-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -69,7 +69,7 @@ me.say_hi()
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-386990?style=for-the-badge&logo=postgreSQL&logoColor=white)
 </div>
 
 ### Tools & IDEs
