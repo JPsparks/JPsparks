@@ -43,9 +43,10 @@ me.say_hi()
 ![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-Newby-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Newby-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -97,9 +98,10 @@ me.say_hi()
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning (or what i whould deep into sooner or later)
 
 - 🤖 **Agentic AI Architectures** - Building autonomous AI systems
+- ⚗️ **Knowledge distillation** - A necessary step to make some Edge AI
 - 📊 **GraphRAG** - Enhancing retrieval with knowledge graphs
 - 📱 **Mobile Development** - Bringing AI to mobile platforms
 - 🧩 **Small Language Models (SLM)** - Efficient AI for edge computing
