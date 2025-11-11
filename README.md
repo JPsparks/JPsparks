@@ -15,9 +15,10 @@ class JacopoPesaresi:
     def __init__(self):
         self.current_role = "AI Master's Student"
         self.university = "Alma Mater Studiorum - Università di Bologna"
-        self.program = "Artificial Intelligence"
-        self.interests = ["Agentic AI", "GraphRAG", "SLM", "RaspberryPi", "ESP32", "Mobile Dev"]
-        self.currently_working_on = "JdroPonos (coming soon...)"
+        self.university_course = "Artificial Intelligence"
+        self.interests = ["Agentic AI",  "RaspberryPi", "ESP32", "Mobile Dev"]
+        self.dreams_to_touch = ["GraphRAG", "SLM", "Predictive Maintenance", "Tiny ML"]
+        self.currently_working_on = "JdroPonos, but now focus on searching intership"
         
     def say_hi(self):
         print("Let the future tell the truth and evaluate each one \
@@ -54,6 +55,7 @@ me.say_hi()
 <div align="left">
   
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -102,8 +104,8 @@ me.say_hi()
 
 - 🤖 **Agentic AI Architectures** - Building autonomous AI systems
 - ⚗️ **Knowledge distillation** - A necessary step to make some Edge AI
-- 📊 **GraphRAG** - Enhancing retrieval with knowledge graphs
 - 📱 **Mobile Development** - Bringing AI to mobile platforms
+- 📊 **GraphRAG** - Enhancing retrieval with knowledge graphs
 - 🧩 **Small Language Models (SLM)** - Efficient AI for edge computing
 
 ---
